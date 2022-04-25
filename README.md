@@ -1,12 +1,10 @@
-This is a nodejs project to upload a file.
+This is a small nodejs api to upload a file.
+
 Node version: 16.14.2
 
-Build
-npm install
+Build: npm install
 
-Run
-npm start
+Run: npm start
 
-Docker up
-
-docker-compose up --build
+Docker : docker-compose up
+Docker compose rebuild: docker-compose up --build
