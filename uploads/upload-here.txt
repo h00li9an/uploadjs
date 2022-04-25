@@ -1,0 +1,2 @@
+Upload files to this directory
+mount this directory via docker-compose for docker usages
